@@ -8,7 +8,7 @@ op_policy.txt 		: contains the policy
 op_reward.txt		: contains the reward
 policy.txt 			: contains policy in another format
 
-apologies for not providing a function to query, I am not really good in c++,
+apologies for not providing a function to query.
 however you can query from op_policy.txt.
 
 further,
