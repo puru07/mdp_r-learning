@@ -1,0 +1,11 @@
+the x and y coordinate of the state, followed by thier respective action
+N,N,W,E,E,N,N,N,N,N,
+N,N,N,N,W,W,E,N,N,N,
+N,N,N,N,N,E,N,N,N,N,
+E,N,E,N,W,W,N,N,N,E,
+E,N,E,N,N,W,N,N,S,E,
+N,N,N,N,N,N,N,N,N,S,
+N,N,N,N,N,S,N,N,N,N,
+N,S,N,N,E,N,N,N,N,N,
+W,W,N,N,E,N,N,N,N,N,
+N,E,N,E,N,N,N,N,N,N,
